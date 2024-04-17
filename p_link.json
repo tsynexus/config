@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "google.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "itangtalk.com",
+        "bad.news",
+        "shuzijumin.com",
+        "ebayadservices.com",
+        "usccstrategy.com",
+        "uscardforum.com",
+        "binance.com",
+        "dexscreener.com",
+        "bitcoin.com",
+        "mirror.xyz",
+        "t-mo.cc",
+        "t-mobile.com",
+        "clashforios.com",
+        "lala.im",
+        "telghub.com",
+        "googleadservices.com",
+        "bing.com",
+        "bulianglin.com",
+        "idev.dev",
+        "depay.one",
+        "whatismyipaddress.com",
+        "applemusic.com",
+        "music.apple.com",
+        "aod.itunes.apple.com",
+        "aod-ssl.itunes.apple.com",
+        "audio.itunes.apple.com",
+        "audio-ssl.itunes.apple.com",
+        "mvod.itunes.apple.com",
+        "streamingaudio.itunes.apple.com",
+        "blobstore.apple.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "71.18.74.198/32",
+        "24.199.123.28/32"
+      ]
+    }
+  ]
+}

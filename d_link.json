@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "weixin.com",
+        "weixin.qq.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "doordu.com",
+        "l0rh.com",
+        "wise.com",
+        "digicert.com",
+        "searchpstatp.com",
+        "bsccdn.net",
+        "ke.com",
+        "fomepay.com",
+        "appsimg.com",
+        "vpimg3.com",
+        "vipshop.com",
+        "appvipshop.com",
+        "vipstatic.com",
+        "aliyuncs.com",
+        "alipay.com",
+        "taobao.com",
+        "aliapp.org",
+        "alipayobjects.com",
+        "alibabachengdun.com",
+        "alicdn.com",
+        "qlogo.cn",
+        "qpic.cn",
+        "www-cdn.icloud.com.akadns.net",
+        "apple-cloudkit.com",
+        "apple.co",
+        "apple.com",
+        "apple.news",
+        "apple.com.cn",
+        "appstore.com",
+        "cdn-apple.com",
+        "crashlytics.com",
+        "icloud-content.com",
+        "icloud.com",
+        "icloud.com.cn",
+        "outlook.com",
+        "blzddist1-a.akamaihd.net",
+        "cdn.angruo.com",
+        "download.jetbrains.com",
+        "file-igamecj.akamaized.net",
+        "images-cn.ssl-images-amazon.com",
+        "officecdn-microsoft-com.akamaized.net",
+        "wogg.link",
+        "wogg.xyz"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "17.253.52.0/23"
+      ]
+    }
+  ]
+}

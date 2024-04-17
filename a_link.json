@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        ".cmpassport.com",
+        ".hmrz.wo.cn",
+        ".nishub1.10010.com",
+        ".enrichgw.10010.com",
+        ".wostore.cn",
+        ".wosms.cn",
+        ".mail.wo.cn",
+        ".open.wo.cn",
+        ".id6.me",
+       ".163yun.com"
+      ]
+    }
+  ]
+}
