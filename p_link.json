@@ -3,12 +3,11 @@
   "rules": [
     {
       "domain": [
-        "google.com"
+        "www.googleadservices.com"
       ]
     },
     {
       "domain_suffix": [
-        "snssdk.com",
         "itangtalk.com",
         "bad.news",
         "shuzijumin.com",
