@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        ".jsdelivr.net",
         ".cmpassport.com",
         ".hmrz.wo.cn",
         ".nishub1.10010.com",
