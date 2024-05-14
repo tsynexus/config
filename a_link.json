@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "saxysec.com",
         ".cmpassport.com",
         ".hmrz.wo.cn",
         ".nishub1.10010.com",
