@@ -14,6 +14,8 @@
     },
     {
       "domain_suffix": [
+        "zhitongcaijing.com",
+        "appsflyersdk.com",
         "optimizely.com",
         "online-metrix.net",
         "tiqcdn.com",
@@ -118,6 +120,7 @@
       "ip_cidr": [
         "129.226.96.0/20",
         "202.89.232.0/21",
+        "203.185.33.0/24",
         "124.156.153.0/23",
         "17.253.108.0/23",
         "17.253.116.0/23",
