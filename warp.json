@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "youtube.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "24.199.123.28/32"
+      ]
+    }
+  ]
+}
