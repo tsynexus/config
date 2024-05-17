@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "ipleak.net",
         "youtube.com",
         "ytimg.com",
         "ggpht.com",
