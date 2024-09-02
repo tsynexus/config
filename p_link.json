@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "my.microsoftpersonalcontent.com",
         "www.googleadservices.com"
       ]
     },
