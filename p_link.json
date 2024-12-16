@@ -9,6 +9,7 @@
     },
     {
       "domain_suffix": [
+        "browser.events.data.microsoft.com",
         "server.events.data.microsoft.com",
         "client.wns.windows.com",
         "outlook.office.com",
