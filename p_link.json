@@ -9,8 +9,10 @@
     },
     {
       "domain_suffix": [
+        "server.events.data.microsoft.com",
         "client.wns.windows.com",
         "outlook.office.com",
+        "login.live.com",
         "macropolo.org",
         "tgstat.ru",
         "tgstat.com",
