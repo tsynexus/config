@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "douban.com",
         "weixin.com",
         "weixin.qq.com"
       ]
@@ -15,6 +14,7 @@
     },
     {
       "domain_suffix": [
+        "douban.com",
         "wongtee000056.com",
         "uptodown.com",
         "coursera.org",
