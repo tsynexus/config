@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "douban.com",
         "weixin.com",
         "weixin.qq.com"
       ]
