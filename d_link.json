@@ -9,6 +9,7 @@
     },
     {
       "domain_keyword": [
+        ".pool.ntp.org",
         ".wogg."
       ]
     },
