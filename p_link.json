@@ -9,6 +9,7 @@
     },
     {
       "domain_keyword": [
+        "-zlib.",
         "z-lib.",
         ".z-library.",
         "go-to-library.",
