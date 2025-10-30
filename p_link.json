@@ -19,6 +19,7 @@
     },
     {
       "domain_suffix": [
+        "truthsocial.com",
         "hackmd.io",
         "chronosphere.io",
         "prodregistryv2.org",
@@ -134,3 +135,4 @@
     }
   ]
 }
+
