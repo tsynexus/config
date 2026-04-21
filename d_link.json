@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "apple-relay.cloudflare.com",
         "weixin.com",
         "weixin.qq.com"
       ]
