@@ -13,6 +13,8 @@
         ".wogg.",
         ".xxooo.",
         "ntp.",
+        "ghproxy.",
+        "gh-proxy.",
         "safebrowsing.",
         "2xiaopan."
       ]
@@ -21,7 +23,6 @@
       "domain_suffix": [
         "clun.top",
         "easebar.com",
-        "ghproxy.com",
         "sfcdn.org",
         "shafa.com",
         "moeyy.xyz",
