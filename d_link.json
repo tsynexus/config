@@ -21,6 +21,8 @@
     },
     {
       "domain_suffix": [
+        "outlook.office365.com",
+        "self.events.data.microsoft.com",
         "clun.top",
         "easebar.com",
         "sfcdn.org",
