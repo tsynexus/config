@@ -2,11 +2,6 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-        "apple-relay.cloudflare.com"
-      ]
-    },
-    {
       "domain_keyword": [
         ".wogg.",
         ".xxooo.",
