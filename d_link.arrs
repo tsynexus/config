@@ -1,5 +1,5 @@
 # A complete example
-name = my_d_link
+name = d_link
 # routing: 0 Default · 1 Direct · 2 Reject (applied on first import only)
 routing = 1
 
