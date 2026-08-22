@@ -1,0 +1,12 @@
+# A complete example
+name = my_d_link
+# routing: 0 Default · 1 Direct · 2 Reject (applied on first import only)
+routing = 1
+
+# Domain rules
+2, waimaimingtang.com
+3, ghproxy.
+
+# IP rules
+0, 10.0.0.0/8
+1, 2001:db8::/32
