@@ -1,0 +1,16 @@
+# A complete example
+name = Whatsapp
+# routing: 0 Default · 1 Direct · 2 Reject (applied on first import only)
+routing = 0
+
+# Domain rules
+2, wa.me
+2, whatsapp-plus.info
+2, whatsapp-plus.me
+2, whatsapp-plus.net
+2, whatsapp.cc
+2, whatsapp.com
+2, whatsapp.info
+2, whatsapp.net
+2, whatsapp.org
+2, whatsapp.tv
