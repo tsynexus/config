@@ -4,6 +4,14 @@ name = Apple-CN
 routing = 1
 
 # Domain rules
+2, apple-relay.fastly-edge.com
+2, ampaeservices.com
+2, gdmf.apple.com
+2, gateway.icloud.com
+2, time.apple.com
+2, iamp-api.sandbox.apple.com
+2, wps.apple.com
+2, testflight.apple.com
 2, mzstatic.com
 2, adcdownload.apple.com
 2, adcdownload.apple.com.akadns.net
@@ -106,6 +114,8 @@ routing = 1
 2, gspe19-cn-ssl.ls.apple.com
 2, gspe19-cn.ls-apple.com.akadns.net
 2, gspe19-cn.ls.apple.com
+2, gspe11-ssl.ls.apple.com
+2, gspe12-ssl.ls.apple.com
 2, gspe21-ssl.ls.apple.com
 2, gspe35-ssl.ls.apple.com
 2, gspe79-cn-ssl.ls.apple.com
@@ -125,10 +135,9 @@ routing = 1
 2, init-p01md-lb.push-apple.com.akadns.net
 2, init-p01md.apple.com
 2, init-p01st-lb.push-apple.com.akadns.net
-2, init-p01st.push.apple.com
+2, push.apple.com
 2, init-s01st-lb.push-apple.com.akadns.net
-2, init-s01st.push.apple.com
-2, init.ess.apple.com
+2, ess.apple.com
 2, insidear.cn
 2, iosapps.itunes.g.aaplimg.com
 2, ipcdn.apple.com
