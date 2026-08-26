@@ -1,9 +1,8 @@
-# A complete example
 name = p_link
-# routing: 0 Default · 1 Direct · 2 Reject (applied on first import only)
+# 0 默认 · 1 直连 · 2 拒绝
 routing = 0
 
-# Domain rules
+# 3 域名关键词 · 2 域名后缀
 3, -zlib.
 3, z-lib.
 3, .z-library.
