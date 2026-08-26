@@ -1,9 +1,9 @@
-# A complete example
 name = Apple-CN
-# routing: 0 Default · 1 Direct · 2 Reject (applied on first import only)
+
+# 0 默认 · 1 直连 · 2 拒绝
 routing = 1
 
-# Domain rules
+# 3 域名关键词 · 2 域名后缀
 2, apple-relay.fastly-edge.com
 2, ampaeservices.com
 2, gdmf.apple.com
