@@ -3,6 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
+        ".local",
+          ".lan",
+          ".home",
 "id.ui.direct",
 "unifi.ui.com",
 "unifi.local",
