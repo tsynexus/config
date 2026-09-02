@@ -1,43 +1,48 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain_suffix": [
-        ".local",
-          ".lan",
-          ".home",
-"id.ui.direct",
-"unifi.ui.com",
-"unifi.local",
-"network.unifi.ui.com",
-"amplifi.lan",
-"router.synology.com",
-"sila.razer.com",
-"router.asus.com",
-"routerlogin.net",
-"orbilogin.com",
-"www.LinksysSmartWiFi.com",
-"LinksysSmartWiFi.com",
-"myrouter.local",
-"instant.arubanetworks.com",
-"setmeup.arubanetworks.com",
-"www.miwifi.com",
-"miwifi.com",
-"mediarouter.home",
-"tplogin.cn",
-"tplinklogin.net",
-"tplinkwifi.net",
-"melogin.cn",
-"falogin.cn",
-"tendawifi.com",
-"leike.cc",
-"zte.home",
-"p.to",
-"phicomm.me",
-"hiwifi.com",
-"peiluyou.com",
-"hotspot.cslwifi.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "localhost"
+            ]
+        },
+        {
+            "domain_suffix": [
+                ".local",
+                ".lan",
+                ".home",
+                "id.ui.direct",
+                "unifi.ui.com",
+                "unifi.local",
+                "network.unifi.ui.com",
+                "amplifi.lan",
+                "router.synology.com",
+                "sila.razer.com",
+                "router.asus.com",
+                "routerlogin.net",
+                "orbilogin.com",
+                "www.LinksysSmartWiFi.com",
+                "LinksysSmartWiFi.com",
+                "myrouter.local",
+                "instant.arubanetworks.com",
+                "setmeup.arubanetworks.com",
+                "www.miwifi.com",
+                "miwifi.com",
+                "mediarouter.home",
+                "tplogin.cn",
+                "tplinklogin.net",
+                "tplinkwifi.net",
+                "melogin.cn",
+                "falogin.cn",
+                "tendawifi.com",
+                "leike.cc",
+                "zte.home",
+                "p.to",
+                "phicomm.me",
+                "hiwifi.com",
+                "peiluyou.com",
+                "hotspot.cslwifi.com"
+            ]
+        }
+    ]
 }
