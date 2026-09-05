@@ -1,0 +1,10 @@
+{
+    "sites": [
+        {
+            "name": "hg",
+            "type": 3,
+            "api": "csp_huangguo",
+            "ext": "./hg.js"
+        }
+    ]
+}
