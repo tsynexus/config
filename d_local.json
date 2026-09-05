@@ -41,7 +41,9 @@
                 "phicomm.me",
                 "hiwifi.com",
                 "peiluyou.com",
-                "hotspot.cslwifi.com"
+                "hotspot.cslwifi.com",
+                "msftncsi.com",
+                "msftconnecttest.com"             
             ]
         }
     ]
